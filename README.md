@@ -1,15 +1,15 @@
-# Curso Web
+﻿# Curso Web
 Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizando pela Udemy
 <br></br>
 ### Conteúdo programático
 #### 1) HTML 5 - Concluído
 - Projeto UNES (Página institucional de uma universidade) - Feito
 
-#### 2) CSS3 - Em conclusão
+#### 2) CSS3 - Concluído
 - Projeto Anna Bella (Página web pessoal) - Feito
-- Projeto TecBlog (Blog de tecnologia)
+- Projeto TecBlog (Blog de tecnologia) - Feito
 
-#### 3) CSS3 Intermediário & avançado
+#### 3) CSS3 Intermediário & avançado - Em conclusão
 - Projeto Notícias da Cidade (Portal de notícias)
 - Projeto Chalé Hotel (Página publicitária)
 
