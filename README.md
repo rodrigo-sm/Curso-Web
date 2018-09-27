@@ -10,7 +10,7 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Projeto TecBlog (Blog de tecnologia) - Feito
 
 #### 3) CSS3 Intermediário & avançado - Em conclusão
-- Projeto Notícias da Cidade (Portal de notícias)
+- Projeto Notícias da Cidade (Portal de notícias) - Feito
 - Projeto Chalé Hotel (Página publicitária)
 
 #### 4) HTML5 e CSS3 - Recursos especiais
