@@ -9,11 +9,11 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Projeto Anna Bella (Página web pessoal) - Feito
 - Projeto TecBlog (Blog de tecnologia) - Feito
 
-#### 3) CSS3 Intermediário & avançado - Em conclusão
+#### 3) CSS3 Intermediário & avançado - Concluído
 - Projeto Notícias da Cidade (Portal de notícias) - Feito
-- Projeto Chalé Hotel (Página publicitária)
+- Projeto Chalé Hotel (Página publicitária) - Feito
 
-#### 4) HTML5 e CSS3 - Recursos especiais
+#### 4) HTML5 e CSS3 - Recursos especiais - Em conclusão
 
 #### 5) Bootstrap 4 & Design responsivo
 
