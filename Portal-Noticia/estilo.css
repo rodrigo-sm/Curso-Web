@@ -173,13 +173,10 @@ h3{
 	background: white;
 }
 
-.mundo a{
-
-}
 
 .img-mundo img{
 	float: left;
-	width: 40%;
+	width: 46%;
 	display: inline;
 	background-position: top;
 	margin: 0;
@@ -187,7 +184,7 @@ h3{
 
 .txt-mundo{
 	float: right;
-	width: 150px;
+	width: 50%;
 	display: inline;
 	font-size: 0.8em;
 
@@ -259,4 +256,43 @@ hr{
 /*corpo do conteudo*/
 .corpo{
 	margin: 70px 0;
+}
+
+/*Pagina Nova legislaçao*/
+.conteudo1{
+	background: url(imagens/fundo-caixa.png);
+	margin: auto;
+	padding: 10px;
+}
+
+.sec-legis{
+	background: white;
+	padding: 10px;
+}
+
+
+.sec-legis h4{
+	background: red;
+	color: white;
+	padding: 3px;
+	display: inline;
+	border: 1px solid black;
+	text-transform: uppercase;
+}
+.sec-legis img{
+	width: 100%;
+}
+
+.rodape1{
+	clear: both; 
+	background: #070F34;
+	color: white;
+	padding: 20px;
+	font-size: 0.8em;
+	padding-left: 100px;
+}
+
+/*Pagina Brasil*/
+.width{
+	width: 100%;
 }
