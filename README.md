@@ -13,9 +13,13 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Projeto Notícias da Cidade (Portal de notícias) - Feito
 - Projeto Chalé Hotel (Página publicitária) - Feito
 
-#### 4) HTML5 e CSS3 - Recursos especiais - Em conclusão
+#### 4) HTML5 e CSS3 - Recursos especiais - Concluído
+- Museu Nacional - Feito
 
-#### 5) Bootstrap 4 & Design responsivo
+#### 5) Bootstrap 4 & Design responsivo - Em conclusão
+- Projeto Finans
+- Projeto Spotify clone
+- Projeto Carousel
 
 #### 6) JavaScript
 - App Calculadora
