@@ -17,7 +17,7 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Museu Nacional - Feito
 
 #### 5) Bootstrap 4 & Design responsivo - Em conclusão
-- Projeto Finans
+- Projeto Finans - Feito
 - Projeto Spotify clone
 - Projeto Carousel
 
