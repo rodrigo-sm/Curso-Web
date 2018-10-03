@@ -18,10 +18,9 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 
 #### 5) Bootstrap 4 & Design responsivo - Em conclusão
 - Projeto Finans - Feito
-- Projeto Spotify clone
-- Projeto Carousel
+- Projeto Spotify clone - Feito
 
-#### 6) JavaScript
+#### 6) JavaScript - Em conclusão
 - App Calculadora
 - App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
 
@@ -44,6 +43,8 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - App Lista de Tarefas (PHP com PDO e MySQL)
 
 #### 13) Publicação de aplicações Web na Internet
+
+#### 14) JQuery
 <br></br>
 ### Sobre mim
 Eu sou o Rodrigo, estudante de ciência da computação da Universidade Católica de Santos([UNISANTOS](https://www.unisantos.br/)), apaixonado por programação e desafio.
