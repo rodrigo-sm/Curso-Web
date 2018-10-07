@@ -21,8 +21,8 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Projeto Spotify clone - Feito
 
 #### 6) JavaScript - Em conclusão
-- App Calculadora
-- App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
+- App Calculadora - Feito
+- App Game Mata Mosquito 
 
 #### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
 - App Orçamento Pessoal (App para controle pessoal de finanças)
@@ -37,7 +37,7 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
 
 #### 11) Ajax
-- App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
+- App Pesquisa Endereço (Realiza requisições HTTP via XMLHttpRequest para API's)
 
 #### 12) PHP com PDO
 - App Lista de Tarefas (PHP com PDO e MySQL)
