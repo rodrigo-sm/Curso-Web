@@ -45,6 +45,8 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 #### 13) Publicação de aplicações Web na Internet
 
 #### 14) JQuery
+
+#### 15) Wordpress
 <br></br>
 ### Sobre mim
 Eu sou o Rodrigo, estudante de ciência da computação da Universidade Católica de Santos([UNISANTOS](https://www.unisantos.br/)), apaixonado por programação e desafio.
