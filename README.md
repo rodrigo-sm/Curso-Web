@@ -16,15 +16,15 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 #### 4) HTML5 e CSS3 - Recursos especiais - Concluído
 - Museu Nacional - Feito
 
-#### 5) Bootstrap 4 & Design responsivo - Em conclusão
+#### 5) Bootstrap 4 & Design responsivo - Concluído
 - Projeto Finans - Feito
 - Projeto Spotify clone - Feito
 
-#### 6) JavaScript - Em conclusão
+#### 6) JavaScript - Concluído
 - App Calculadora - Feito
-- App Game Mata Mosquito 
+- App Game Mata Mosquito - Feito
 
-#### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
+#### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos - Em Conclusão
 - App Orçamento Pessoal (App para controle pessoal de finanças)
 
 #### 8) PHP 7
