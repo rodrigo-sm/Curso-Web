@@ -24,10 +24,10 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - App Calculadora - Feito
 - App Game Mata Mosquito - Feito
 
-#### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos - Em Conclusão
-- App Orçamento Pessoal (App para controle pessoal de finanças)
+#### 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos - Concluído
+- App Orçamento Pessoal (App para controle pessoal de finanças) - Feito
 
-#### 8) PHP 7
+#### 8) PHP 7 - Em Conclusão
 - App Help Desk (App para abertura e acompanhamento de suportes técnicos)
 
 #### 9) PHP 7 e Orientação a Objetos
