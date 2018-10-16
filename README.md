@@ -6,7 +6,7 @@ Projetos do [curso web](https://www.udemy.com/web-completo/) que estou realizand
 - [Projeto UNES](https://rodrigo-sm.github.io/projetos/UNES/unes.html) (Página institucional de uma universidade) - Feito
 
 #### 2) CSS3 - Concluído
-- [Projeto Anna Bella](https://rodrigo-sm.github.io/projetos/UNES/unes.html) (Página web pessoal) - Feito
+- [Projeto Anna Bella](https://rodrigo-sm.github.io/projetos/Anna-Bella/annabella.html) (Página web pessoal) - Feito
 - [Projeto TecBlog](https://rodrigo-sm.github.io/projetos/TecBlog/tec.html) (Blog de tecnologia) - Feito
 
 #### 3) CSS3 Intermediário & avançado - Concluído
